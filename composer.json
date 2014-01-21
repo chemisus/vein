@@ -1,0 +1,17 @@
+{
+    "name": "chemisus/vein",
+    "authors": [
+        {
+            "name": "Terrence Howard",
+            "email": "chemisus@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "Vein": "src/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    }
+}
